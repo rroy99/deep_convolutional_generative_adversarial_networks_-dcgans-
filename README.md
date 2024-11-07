@@ -9,7 +9,6 @@
   <img src="https://img.shields.io/badge/Pandas-1.3.4+-orange?logo=pandas&logoColor=white" alt="Pandas Badge" />
   <img src="https://img.shields.io/badge/Seaborn-0.9.0+-purple?logo=seaborn&logoColor=white" alt="Seaborn Badge" />
   <img src="https://img.shields.io/badge/scikit--learn-0.20.1+-yellow?logo=scikit-learn&logoColor=white" alt="Scikit-learn Badge" />
-  <img src="https://img.shields.io/badge/SkillsNetwork-Preinstalled-orange?logo=skillsnetwork&logoColor=white" alt="Skills Network Badge" />
 </div>
 
 ## Documentation 📄
